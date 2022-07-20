@@ -30,6 +30,23 @@ En nuestra cuenta podrás encontrar distintos códigos útiles para el manejo de
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry" alt="raspberry" width="40" height="40"/>&nbsp; 
 </div>
 
+## Repositorios 
+<div id="badges">
+  <a>
+    <img src="https://img.shields.io/badge/Glaciolog%C3%ADa-Balance%20geod%C3%A9sico-blue" alt="repo1"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Climatolog%C3%ADa-Manipulaci%C3%B3n%20de%20netcdf-blue" alt="Twitter Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Glaciolog%C3%ADa-Din%C3%A1mica%20glaciar-blue" alt="Twitter Badge"/>
+  </a>
+   <a>
+    <img src="https://img.shields.io/badge/Glaciolog%C3%ADa-Balance%20de%20energ%C3%ADa-blue" alt="Twitter Badge"/>
+  </a>  
+</div>
+
+
 ## Proyectos
 - Monitoreo del balance de masa del Glaciar Mocho (a cargo de Marius Schaefer, financiado por el proyecto FONDECYT regular No. 1180785).
 - Interacciones Glacio-climaticas en los Campos de Hielo Patagónicos (a cargo de Marius Schaefer, financiado por el proyecto FONDECYT regular No. 1180785).
