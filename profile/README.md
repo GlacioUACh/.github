@@ -39,7 +39,9 @@ En nuestra cuenta podrás encontrar distintos códigos útiles para el manejo de
 
 ## Colaboraciones:
 - <a href="http://sochicri.cl/"> Sociedad Chilena por el estudio de la Criósfera </a>
-- World Glacier Monitoring Service
-- Laboratorio de análisis de isótopos de la Universidad Andrés Bello
-- Grupo de Glaciología del Instituto de Temperaturas Bajas, Universidad de Hokkaido, Japón
-- Instituto Nacional de Investigación en glaciares y ecosistemas de montaña
+- <a href="https://www.wgms.ch/"> World Glacier Monitoring Service </a>
+- <a href="https://www.lab-isotopos.cl/"> Laboratorio de análisis de isótopos de la Universidad Andrés Bello </a>
+- <a href="http://www.lowtem.hokudai.ac.jp/en/groups/glacier.html"> Grupo de Glaciología del Instituto de Temperaturas Bajas, Universidad de Hokkaido, Japón </a>
+- <a href="https://www.inaigem.gob.pe/"> Instituto Nacional de Investigación en glaciares y ecosistemas de montaña </a>
+
+
