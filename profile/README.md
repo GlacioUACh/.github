@@ -38,7 +38,7 @@ En nuestra cuenta podrás encontrar distintos códigos útiles para el manejo de
 - Desarrollo del Relieve Glaciar en el sur de Patagonia (a cargo de Dr. Viktoria Georgieva, financiado por Fondecyt Postdoctorado 2020, 2020-2023)
 
 ## Colaboraciones:
-- Sociedad Chilena por el estudio de la Criósfera
+- <a href="http://sochicri.cl/"> Sociedad Chilena por el estudio de la Criósfera </a>
 - World Glacier Monitoring Service
 - Laboratorio de análisis de isótopos de la Universidad Andrés Bello
 - Grupo de Glaciología del Instituto de Temperaturas Bajas, Universidad de Hokkaido, Japón
